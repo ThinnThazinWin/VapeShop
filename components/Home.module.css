@@ -1,0 +1,9 @@
+.bg {
+    background-image: url("../public/head/about.jpg");
+    background-size: cover;
+    min-height: 50vh;
+    background-position: center;
+    width: screen;
+  position: relative;
+}
+
